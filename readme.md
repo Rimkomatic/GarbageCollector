@@ -57,3 +57,17 @@ int main() {
     return 0;
 }
 
+```
+
+## Building and Running
+
+To build and run the project, use the following commands:
+``` bash
+gcc -o gc_example gc_example.c gc.c
+./gc_example
+```
+
+
+## License
+This project is licensed under the MIT License.
+
